@@ -1,0 +1,29 @@
+{
+  "_comment": "Who and what we engage with. Edit freely; the agent reads this every run.",
+  "timezone": "Asia/Kuala_Lumpur",
+  "daily_budget": {
+    "replies": 10,
+    "reposts": 2,
+    "likes_for_human": 20,
+    "max_replies_per_author_per_week": 2
+  },
+  "posting_windows_myt": ["12:30", "20:30"],
+  "warmup_minutes_before_post": 30,
+  "keywords": {
+    "scholarship": ["biasiswa", "scholarship Malaysia", "JPA", "Yayasan", "MARA", "PTPTN", "interview biasiswa"],
+    "spm_leavers": ["lepasan SPM", "SPM 2026", "UPU", "matrikulasi", "asasi", "foundation", "STPM", "pre-u"],
+    "uni_life": ["first year uni", "budak uni", "degree", "intern", "internship", "resume", "CGPA"],
+    "impact": ["volunteer Malaysia", "sukarelawan", "projek komuniti", "youth Malaysia"]
+  },
+  "priority_accounts": {
+    "_comment": "Accounts worth showing up for consistently: creators, edu pages, uni clubs, partners. Add usernames without @.",
+    "peers_and_creators": [],
+    "universities_and_clubs": [],
+    "partners_and_sponsors": []
+  },
+  "never_engage": {
+    "_comment": "Usernames or topics we never touch.",
+    "accounts": [],
+    "topics": ["politics", "religion debates", "race", "drama/callouts", "giveaway spam", "MLM", "crypto"]
+  }
+}
